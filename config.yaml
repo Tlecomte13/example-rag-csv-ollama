@@ -1,0 +1,12 @@
+#db 
+chroma_path: "chroma"
+
+#models
+embeddings_model: "mistral"
+llm_model: "mistral"
+
+# documents
+
+file_path: "./data/<YOUR_FILE>"
+chunk_size: 800
+chunk_overlap: 80
